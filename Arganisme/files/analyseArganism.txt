@@ -1,0 +1,24 @@
+----------- negative -----------------
+1- falloire deplacer "contact us" en footer
+2- chat robot
+3- minimiser la nav bar
+4- manque des produits en acceuil
+5- l'article est longue et pas centré
+6- falloire ameliorer la police
+7- ajouter l'authentification
+8- les bannners sont pas attractives
+9- quand je clique sur drapeau fr faut traduire la page mais pas ouvrir la page blog en français
+10- falloire ameliorer le footer
+12 - falloire ameliorer completement le design du site
+14 - les produits sont pas categorisé
+15- La version PHP du site Web n'est pas actuelle
+16- Un Content Delivery Network (CDN) optimise la diffusion de votre site Web aux visiteurs. Ceci est particulièrement utile lorsque des visiteurs de différentes régions géographiques consultent votre site Web.
+
+----------- positive -------------
+1- le site est responsive
+2- Les visiteurs peuvent également consulter votre site Web de manière optimale sur des appareils terminaux mobiles.
+3- Votre site Web utilise un symbole de favoris. Ainsi, votre site Web fait bonne impression dans les onglets du navigateur et en tant que page enregistrée dans les favoris.
+4- Votre site Web utilise un logo pour smarphones et tablettes. Ainsi, votre site Web fait bonne impression lorsqu'il est enregistré comme favori sur les appareils terminaux mobiles.
+5- Bravo, votre site web utilise déjà un chiffrement SSL : ainsi, les données entrantes et sortantes de votre site Web sont transférées uniquement de manière chiffrée.
+6- La page de statut de votre serveur Web n'est pas accessible publiquement. Ainsi, vous augmentez la protection contre des pirates potentiels.
+7- La compression est activée. Cela réduit le volume des données à transférer et permet ainsi un chargement plus rapide de vos contenus.
